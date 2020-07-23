@@ -1,3 +1,8 @@
+/* Write a code to launch two broswers parallely
+ *  with multithreading concept in java, 
+ * search Selenium in google and assert count of links.*/
+
+
 package Browser1;
 
 import java.util.List;
